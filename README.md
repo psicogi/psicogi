@@ -2,8 +2,6 @@
 
 **`Desenvolvedora Frontend`**
 
-👩‍💻 Front-end Developer | Student
-
 📚 Estudando: Análise e Desenvolvimento de Sistemas (UNINASSAU) & Técnico em Informática (IFS).
 
 💡 Interesses: Desenvolvimento Web, UI/UX e Lógica de Programação.
