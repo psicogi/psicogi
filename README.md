@@ -2,7 +2,14 @@
 
 **`Desenvolvedora Frontend`**
 
-Me chamo Giovania Fabiana Dantas, tenho 18 anos e sou natural de Aracaju-Sergipe. Atualmente faço um curso tecnico em informática no IFS e também curso Análise e Desenvolvimento de Sistemas na Uninassau. Sou uma entusiasta na área de tecnologia desde que me entendo por gente e todo dia estudando em busca de ampliar meus conhecimentos! :D
+👩‍💻 Giovania Dantas
+Front-end Developer | Student
+
+📍 Aracaju, Sergipe
+
+📚 Estudando: Sistemas de Informação (UNINASSAU) & Técnico em Informática (IFS).
+
+💡 Interesses: Desenvolvimento Web, UI/UX e Lógica de Programação.
 
 <p align="left">
     <a href="https://github.com/psicogi?tab=repositories&sort=stargazers">
