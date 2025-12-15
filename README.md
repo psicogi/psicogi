@@ -6,10 +6,10 @@
   ### Front-end Developer em formação
   
   <p>
-    <a href="https://linkedin.com/in/SEU_LINK_DO_LINKEDIN_AQUI">
+    <a href="https://www.linkedin.com/in/devgioo">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:SEU_EMAIL_AQUI">
+    <a href="mailto:fabianagiovana321@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
     </a>
   </p>
