@@ -1,84 +1,43 @@
-## 💻 Giovania Dantas
-
-**`Desenvolvedora Frontend`**
-
-📚 Estudando: Análise e Desenvolvimento de Sistemas (UNINASSAU) & Técnico em Informática (IFS).
-
-💡 Interesses: Desenvolvimento Web, UI/UX e Lógica de Programação.
-
-<p align="left">
-    <a href="https://github.com/psicogi?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/psicogi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+<div align="center">
+  <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="100px" alt="Spider-man pointing meme">
+  
+  # 🕸️ Olá, sou a Giovania!
+  
+  ### Front-end Developer em formação
+  
+  <p>
+    <a href="https://linkedin.com/in/SEU_LINK_DO_LINKEDIN_AQUI">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/psicogi?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/psicogi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="mailto:SEU_EMAIL_AQUI">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
     </a>
-</p>
+  </p>
+</div>
 
 ---
 
-### 🦦 Linguagens e Tecnologias
+### 🕷️ Sobre mim
+Sou a "amigona da vizinhança" no desenvolvimento Front-end!
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Atualmente, meu maior desafio é conciliar dois mundos acadêmicos: **Técnico em Informática (IFS)** e **Análise e Desenvolvimento de Sistemas (UNINASSAU)**. Estou tecendo meu caminho na web, linha de código por linha de código, sempre buscando transformar café e ideias em interfaces incríveis.
 
-<br/>
-<br/>
+### ⚡ Meus superpoderes atuais
+<div style="display: inline_block">
+  <img align="center" alt="Gio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
-### 📊 Estatísticas
+<br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=psicogi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+* Dominando a estrutura com **HTML5** e estilo com **CSS3**.
+* Explorando a lógica e o dinamismo do **JavaScript**.
+* Versionando projetos e salvando o dia com **Git**.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=psicogi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+<div align="center">
+  <i>"Com grande poder de processamento, vem a grande responsabilidade de escrever código limpo."</i> 🕸️
+</div>
