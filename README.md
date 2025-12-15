@@ -5,7 +5,7 @@
 👩‍💻 Giovania Dantas
 Front-end Developer | Student
 
-📚 Estudando: Sistemas de Informação (UNINASSAU) & Técnico em Informática (IFS).
+📚 Estudando: Análise e Desenvolvimento de Sistemas (UNINASSAU) & Técnico em Informática (IFS).
 
 💡 Interesses: Desenvolvimento Web, UI/UX e Lógica de Programação.
 
