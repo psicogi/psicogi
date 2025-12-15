@@ -2,8 +2,7 @@
 
 **`Desenvolvedora Frontend`**
 
-👩‍💻 Giovania Dantas
-Front-end Developer | Student
+👩‍💻 Front-end Developer | Student
 
 📚 Estudando: Análise e Desenvolvimento de Sistemas (UNINASSAU) & Técnico em Informática (IFS).
 
