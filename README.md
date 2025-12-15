@@ -5,8 +5,6 @@
 👩‍💻 Giovania Dantas
 Front-end Developer | Student
 
-📍 Aracaju, Sergipe
-
 📚 Estudando: Sistemas de Informação (UNINASSAU) & Técnico em Informática (IFS).
 
 💡 Interesses: Desenvolvimento Web, UI/UX e Lógica de Programação.
