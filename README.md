@@ -3,7 +3,7 @@
   
   # 🕸️ Olá, sou a Giovania!
   
-  ### Front-end Developer em formação
+  ### Front-end Developer
   
   <p>
     <a href="https://www.linkedin.com/in/devgioo">
