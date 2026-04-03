@@ -3,7 +3,7 @@
   
   # 🕸️ Olá, sou a Giovania!
   
-  ### Front-end Developer
+  ### Software Developer | Full Stack in training (Java & TypeScript)
   
   <p>
     <a href="https://www.linkedin.com/in/devgioo">
@@ -18,23 +18,29 @@
 ---
 
 ### 🕷️ Sobre mim
-Sou a "amigona da vizinhança" no desenvolvimento Front-end!
+Sou a "amigona da vizinhança" no desenvolvimento Full Stack! Atualmente, meu maior desafio é equilibrar três mundos acadêmicos: Análise e Desenvolvimento de Sistemas (UNINASSAU), Sistemas da Informação (UNOPAR) e o Técnico em Informática (IFS).
 
-Atualmente, meu maior desafio é conciliar dois mundos acadêmicos: **Técnico em Informática (IFS)** e **Análise e Desenvolvimento de Sistemas (UNINASSAU)**. Estou tecendo meu caminho na web, linha de código por linha de código, sempre buscando transformar café e ideias em interfaces incríveis.
+Estou tecendo meu caminho entre o Backend robusto e o Frontend dinâmico, transformando lógica e café em soluções completas, linha por linha.
 
 ### ⚡ Meus superpoderes atuais
-<div style="display: inline_block">
-  <img align="center" alt="Gio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+#### 🖥️ Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🎨 Frontend
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛠️ Ferramentas & Metodologias
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
-
-* Dominando a estrutura com **HTML5** e estilo com **CSS3**.
-* Explorando a lógica e o dinamismo do **JavaScript**.
-* Versionando projetos e salvando o dia com **Git**.
 
 ---
 
