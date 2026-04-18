@@ -1,7 +1,7 @@
 
   # 🕸️ Olá, sou a Giovania!
 
-  ### Software Developer | Full Stack (Java & TypeScript)
+  ### Software Developer | FullStack (Java & TypeScript)
   
   <p>
     <a href="https://www.linkedin.com/in/devgioo">
