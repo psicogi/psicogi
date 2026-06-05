@@ -18,7 +18,7 @@
 ### 🕷️ Sobre mim
 Sou a "amigona da vizinhança" no desenvolvimento Full Stack! Atualmente, meu maior desafio é equilibrar três mundos acadêmicos: Análise e Desenvolvimento de Sistemas, Sistemas da Informação e também o Técnico em Informática.
 
-Estou tecendo meu caminho entre o Backend robusto e o Frontend dinâmico, transformando lógica e café em soluções completas, linha por linha.
+Estou tecendo meu caminho entre o Backend robusto e o Frontend dinâmico, transformando lógica e café em soluções completas, linha por linha
 
 ### ⚡ Meus superpoderes atuais
 #### 🖥️ Backend
