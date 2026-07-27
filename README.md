@@ -1,5 +1,5 @@
 
-  # 🕸️ Olá, sou a Giovania
+  # 🕸️ Olá, sou a Giovania!
 
   ### Software Developer | Full Stack (Java & TypeScript)
   
